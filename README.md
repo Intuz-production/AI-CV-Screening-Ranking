@@ -1,16 +1,11 @@
-*Intuz — Your automation partner, one workflow at a time.*
-
-<p align="center">
-  <picture>
-    <img alt="Banner Image" src="https://github.com/user-attachments/assets/210f97fc-0fce-404a-b647-7dfe1302cd37" />
-  </picture>
-</p>
-
-[Intuz](https://www.intuz.com) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
-
-[N8N Creator](https://n8n.io/creators/intuz/) · [AI Consulting](https://www.intuz.com/ai-transformation-services/) · [AI Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
-
 # Screen and rank CVs using Gmail, OpenAI, Airtable, and Slack
+
+An automated workflow that screens and ranks CVs received via Gmail or Google Drive using OpenAI, scores candidates against Airtable job descriptions, updates Airtable pipelines, and sends notifications through Slack and Gmail.
+
+**Import this workflow:** [n8n.io template](https://n8n.io/workflows/19925-screen-and-rank-cvs-using-gmail-openai-airtable-and-slack/) · [workflow.json](workflow.json)  
+**Built by [Intuz](https://www.intuz.com/n8n-workflow-automation-templates/)**, n8n Creator. Need it customized? [Talk to us](https://www.intuz.com/get-started/).
+
+<!-- ![Screen and rank CVs using Gmail, OpenAI, Airtable, and Slack workflow in the n8n editor](workflow-canvas.png) -->
 
 ## Quick overview
 
@@ -56,21 +51,28 @@ Shortlisted and 'needs review' candidates are posted to Slack, shortlisted candi
 
 ## Related n8n templates from Intuz
 
-- [ScopeStorage](https://github.com/Intuz-production/ScopeStorage)
-- [Enrich LinkedIn leads with Apify career data, then draft Gemini-personalized outreach emails into Google Sheets — research to campaign-ready drafts, automatically.](https://github.com/Intuz-production/LinkedIn-Lead-Generation-Automation)
-- [Audio Trimmer Android](https://github.com/Intuz-production/Audio-Trimmer-Android)
+- [Review contract risks and route approvals with Google Drive, OpenAI, and Gmail](https://github.com/Intuz-production/Legal-document-review-automation)
+- [Route lead reply follow-up tasks by intent with Gmail, OpenAI, Pipedrive, and Slack](https://github.com/Intuz-production/AI-Lead-Follow-Up-Routing)
+- [Answer internal policy questions from Google Drive with OpenAI and Qdrant](https://github.com/Intuz-production/Policy-Q-A-with-AI)
 
 [See all of Intuz's free n8n templates](https://www.intuz.com/n8n-workflow-automation-templates/)
 
-## Connect with us
+## About Intuz
+
+<p align="center">
+  <img alt="Intuz: your automation partner, one workflow at a time" src="https://github.com/user-attachments/assets/210f97fc-0fce-404a-b647-7dfe1302cd37" />
+</p>
 
 Intuz is a USA-based AI & workflow automation company with 16+ years of experience building custom AI-enabled workflow automations for SMBs and Enterprises, specializing in agentic AI, LLM integrations, and CRM/ERP sync across Healthcare, FinTech, eCommerce, Manufacturing, and Real Estate.
 
-* **Website:** [https://www.intuz.com](https://www.intuz.com)
-* **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-* **LinkedIn:** https://www.linkedin.com/company/intuz/
-* **Get Started:** https://n8n.partnerlinks.io/intuz
+- [Free n8n workflow templates from Intuz](https://www.intuz.com/n8n-workflow-automation-templates/)
+- [Intuz on n8n.io](https://n8n.io/creators/intuz/)
+- [Workflow automation services](https://www.intuz.com/workflow-automation-services/)
+- [AI consulting company](https://www.intuz.com/ai-transformation-services/)
+- [Try n8n Cloud (Intuz partner link)](https://n8n.partnerlinks.io/intuz)
+- Email: [getstarted@intuz.com](mailto:getstarted@intuz.com)
+- LinkedIn: [linkedin.com/company/intuz](https://www.linkedin.com/company/intuz/)
 
-## For Custom Workflow Automation
+## Need a custom workflow?
 
-[Click here - Get Started](https://www.intuz.com/get-started/)
+[Talk to Intuz about a custom n8n or AI workflow](https://www.intuz.com/get-started/)
